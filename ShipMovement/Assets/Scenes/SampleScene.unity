@@ -440,7 +440,7 @@ GameObject:
   - component: {fileID: 1223953269}
   - component: {fileID: 1223953268}
   m_Layer: 0
-  m_Name: Circle
+  m_Name: Boundary
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
